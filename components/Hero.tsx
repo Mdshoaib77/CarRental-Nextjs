@@ -14,7 +14,7 @@ const Hero = () => {
           </h1>
           <p className="mb-4">
             Experience hassle-free car rentals with flexible options, competitive pricing, 
-  and a smooth booking process designed for your convenience.
+  and a smooth booking process designed for your convenience best.
           </p>
           <div className="flex gap-2">
             <Link href={"/"}>
