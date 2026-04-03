@@ -13,8 +13,8 @@ const Hero = () => {
             effortlessly!
           </h1>
           <p className="mb-4">
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Unde,
-            aliquam maiores. Libero itaque laboriosam dolores
+            Experience hassle-free car rentals with flexible options, competitive pricing, 
+  and a smooth booking process designed for your convenience.
           </p>
           <div className="flex gap-2">
             <Link href={"/"}>
