@@ -33,7 +33,7 @@ const Testimonials = () => {
     >
       <h3 className="bold-32 text-center">Testimonial</h3>
       <p className="text-center max-w-lg m-auto text-gray-30 py-6">
-       Best car ever i received in my life
+       Best car ever i received in my life form this website 
       </p>
       {/* slider */}
       <Slider {...settings}>
