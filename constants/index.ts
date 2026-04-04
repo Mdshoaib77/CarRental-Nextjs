@@ -89,7 +89,7 @@ export const TESTIMONIALS = [
     title: "Lily Walker",
     profession: "Director, High Gold",
     URL: "/person-3.jpg",
-    desc: "Unbelievable sights, professional guides, seamless planning and adventure. Unmatched experiences that leave you wanting more. Highly recommended",
+    desc: "Exploring the world has never been easier. Professional guides, and unique experiences make every trip extraordinary. Highly recommended for all travel lovers!",
   },
   {
     title: "Ninna Williams",
