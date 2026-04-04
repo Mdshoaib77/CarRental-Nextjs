@@ -12,10 +12,10 @@ const Hero = () => {
             Find, <span className="text-red-500">reserve or hire a car</span>{" "}
             effortlessly!
           </h1>
-          <p className="mb-4">
-            Experience hassle-free car rentals with flexible options, competitive pricing, 
-  and a smooth booking process designed for your convenience best.
-          </p>
+         <p className="mb-4">
+  Enjoy hassle-free car rentals with flexible options, competitive pricing, 
+  and a seamless booking experience tailored for your convenience.
+</p>
           <div className="flex gap-2">
             <Link href={"/"}>
               <Image
