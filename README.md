@@ -18,7 +18,6 @@ The goal of this project is to build a fast, scalable, and visually appealing fr
 - 🚀 Modern UI/UX design
 - 📱 Fully responsive (Mobile, Tablet, Desktop)
 - 🔍 Car search and filtering system
-- 🚗 Car listing with details
 - ⚡ Fast performance using Next.js
 - 🧠 Type-safe development using TypeScript
 - 🎯 Clean and reusable component structure
