@@ -68,7 +68,7 @@ const CarItem = ({
             variant={"destructive"}
             className={cn("text-[16px] p-6 flex gap-2 mt-3 w-full")}
           >
-            Book Now
+            Car Book Now
           </Button>
         </div>
       </div>
