@@ -36,7 +36,7 @@ const Footer = () => {
         <p>@2024 Rentals. All Rights Reserved</p>
         <div className="flex-1 flex sm:justify-end justify-center max-sm:mt-4 gap-10">
           <Link href={'/'} className="text-gray-500">
-          Privacy Policy
+          Privacy & Policy
           </Link>
           <Link href={'/'} className="text-gray-500">
           Terms of Uses
