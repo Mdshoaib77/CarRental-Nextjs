@@ -31,7 +31,7 @@ const Header = () => {
       } fixed top-0 w-full z-50 left-0 right-0 transition-all duration-200`}
     >
       <div className="max-container padding-container flexBetween">
-        {/* nlogon j*/}
+        {/* nlogonb j*/}
         <Link href={"/"} className="flexCenter">
           <Image
             src={"/logo.png"}
