@@ -42,7 +42,7 @@ const Header = () => {
             className="h-auto w-28"
           />
         </Link>
-        {/*  nav linksj nh*/}
+        {/*  nav jlinksj nh*/}
         <Nav
           containerStyles={`${
             menuOpened
