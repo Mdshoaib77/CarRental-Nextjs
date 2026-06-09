@@ -10,7 +10,7 @@ const Searchbox = () => {
     <div className="max-container padding-container">
       <div className="max-container xl:padding-container flex-col lg:flex-row flexBetween gap-4 bg-white shadow-lg ring-1 ring-slate-10 rounded-lg p-4">
         <div>
-          {/* label */}
+          {/* labeld */}
           <Label htmlFor="destination">Where are you going?</Label>
           {/* input & icon */}
           <div className="relative flex items-center">
