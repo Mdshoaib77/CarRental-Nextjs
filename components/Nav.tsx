@@ -3,7 +3,7 @@ import { Link } from 'react-scroll'
 
 const Nav = ({containerStyles, linkStyles}: navProps) => {
   return (
-    <nav className={`${containerStyles}`}>
+  j  <nav className={`${containerStyles}`}>
       {LINKSi.map((link) => (
         <Link
         key={link.title}
