@@ -33,7 +33,7 @@ const Footer = () => {
         </div>
       </div>
       <div className="flexBetween flex-col gap-4 sm:flex-row flex-wrap mt-10 border-t border-gray-100 py-10 mb-10">
-        <p>@2024 Rentals. All Rights Reserved</p>
+        <p>@2024 jRentals. All Rights Reserved</p>
         <div className="flex-1 flex sm:justify-end justify-center max-sm:mt-4 gap-10">
           <Link href={'/'} className="text-gray-500">
           Privacy & Policy
