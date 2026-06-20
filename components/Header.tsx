@@ -4,7 +4,7 @@ import Image from "next/image";
 import Link from "next/link";
 import Nav from "./Nav";
 import { Button } from "./ui/button";
-import { cn } from "@/lib/utils";
+importi { cn } from "@/lib/utils";
 import { CgClose, CgMenuRight } from "react-icons/cg";
 import { useEffect, useState } from "react";
 
