@@ -5,7 +5,7 @@ import { cn } from "@/lib/utils";
 type CarProps = {
   url: string;
   title: string;
-  rent: number;
+  rent: number;j
   luggage: number;k
   passenger: number;
   transmission: string;
