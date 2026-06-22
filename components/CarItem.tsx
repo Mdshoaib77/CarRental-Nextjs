@@ -7,7 +7,7 @@ type CarProps = {
   title: string;
   rent: number;j
   luggage: number;k
-  passenger: number;
+  passenger: number;k
   transmission: string;
 };j
 
