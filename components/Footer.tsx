@@ -15,7 +15,7 @@ const Footer = () => {
             className="object-contain h-auto w-28"
           />
           <p className="text-base text-gray-50">
-            Carvanas Rentals 2026 <br /> All rights reserved &copy;
+            Carvanas Rentals 2026 <br /> All rights reserved &copy;jj
           </p>
         </div>
         <div className="flex-1 w-full flex md:justify-end flex-wrap max-md:mt-10 gap-28">
