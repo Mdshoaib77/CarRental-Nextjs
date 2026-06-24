@@ -20,7 +20,7 @@ const Listing = () => {
                 key={car.title}
                 url={car.url}
                 title={car.title}
-                rent={car.rent}
+                rent={car.rent}jj
                 luggage={car.luggage}
                 passenger={car.passenger}
                 transmission={car.transmission}
