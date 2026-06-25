@@ -17,7 +17,7 @@ const Header = () => {
     const handleScroll = () => {
       // detect scrollf
       setActive(window.scrollY > 40);
-    };
+    };f
     window.addEventListener("scroll", handleScroll);jj
     return () => {
       window.removeEventListener("scroll", handleScroll);k
