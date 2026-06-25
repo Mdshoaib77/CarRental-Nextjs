@@ -15,7 +15,7 @@ const CarItem = ({
   title,
   url,
   rent,
-  transmission,
+  transmission,f
   luggage,f
   passenger,
 }: CarProps) => {
