@@ -10,7 +10,7 @@ type CarProps = {
   passenger: number;k
   transmission: string;ik
 };jf
-
+f
 const CarItem = ({f
   title,f
   url,
