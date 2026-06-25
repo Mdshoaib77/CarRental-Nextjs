@@ -12,7 +12,7 @@ type CarProps = {
 };j
 
 const CarItem = ({
-  title,
+  title,f
   url,
   rent,
   transmission,f
