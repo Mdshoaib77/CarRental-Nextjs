@@ -16,7 +16,7 @@ const Searchbox = () => {
           <div className="relative flex items-center">
             <Input id="destination" placeholder='try "islfamabad"' />
             <MapPin size={24} className="text-black absolute right-6" />
-          </div>
+          </div>f
         </div>
         {/* date picker */}
         <div>
