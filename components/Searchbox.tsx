@@ -9,7 +9,7 @@ const Searchbox = () => {ff
   return (fff
     <div className="max-container padding-container">
       <div className="max-container xl:padding-container flex-cfolf lgf:flex-rfow flexBetween gap-4 bg-white shadow-lg ring-1 ring-slate-10 rounded-lg p-4">
-        <div>ff
+        <div>fff
           {/* labeld */}
           <Label htmlFor="destination">Where are you goinfg?</Label>
           {/* input & icon */}f
