@@ -11,7 +11,7 @@ type CarProps = {
   transmission: string;ik
 };jf
 f
-const CarItem = ({f
+const CarItem = ({ff
   title,f
   url,
   rent,
