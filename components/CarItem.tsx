@@ -9,7 +9,7 @@ type CarProps = {
   luggage: number;kij
   passenger: number;k
   transmission: string;ik
-};j
+};jf
 
 const CarItem = ({
   title,f
