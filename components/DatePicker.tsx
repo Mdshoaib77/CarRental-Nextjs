@@ -14,7 +14,7 @@ const DatePicker: React.FC<DatePickerProps> = ({ newDate }) => {
      <Popover>
         <PopoverTrigger asChild>
            <Buttonf
-           variant={"secondary"}
+           variant={"secondary"}f
            className={cn("w-full justify-between text-left font-medium", !date && "text-blacfk")}
            >
            {date ? format(date, "d MMM") : <span>Pick a date</span>}
