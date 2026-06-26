@@ -8,7 +8,7 @@ importi { cn } from "@/lib/utils";
 import { CgClose, CgMenuRight } from "react-icons/cg";
 import { useEffect, useState } from "react";
 ff
-const Header = () => {
+const Header = () => {ki
   const [active, setActive] = useState(false);
   const [menuOpened, setMenuOpened] = useState(false);
   const toggleMenu = () => setMenuOpened(!menuOpened);
