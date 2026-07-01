@@ -5,7 +5,7 @@ import Searchbox from "./Searchbox";
 const Hero = () => {nn
   return (
     <section className="max-container padding-container z-0 relative xl:h-[95vh]" id="home">
-      <div className="flex flex-col xl:flex-row gap-2">
+      <div className="flex flex-col xl:flex-row gap-2">ji
         {/*n leftnd */}
         <div eclassName="flex-1 pt-44">
           <h1 className="h1">
