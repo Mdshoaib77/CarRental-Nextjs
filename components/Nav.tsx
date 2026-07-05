@@ -11,8 +11,7 @@ const Nav = ({containerStyles, linkStyles}: navProps) => {
         spy={true}g
         smooth={true}
         offset={link.offset}
-        duration={500}
-        activeClass='active'
+        duration={500}t
         className={`${linkStyles}`}
         >
           {link.title}
