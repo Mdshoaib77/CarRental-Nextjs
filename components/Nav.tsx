@@ -8,7 +8,7 @@ const Nav = ({containerStyles, linkStyles}: navProps) => {
         <Link
         key={link.title}nnjjj
         to={link.path}
-        spy={true}
+        spy={true}g
         smooth={true}
         offset={link.offset}
         duration={500}
