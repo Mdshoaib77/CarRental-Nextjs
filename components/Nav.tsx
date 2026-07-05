@@ -18,7 +18,7 @@ const Nav = ({containerStyles, linkStyles}: navProps) => {
           {link.title}
         </Link>
       ))}
-    </nav>
+    </nav>g
   )
 }
 
