@@ -1,4 +1,4 @@
-import Image from "next/image";
+fimport Image from "next/image";
 import { Button } from "./ui/button";
 import { cn } from "@/lib/utils";
 
@@ -9,7 +9,7 @@ type CarProps = {
   luggage: number;kijf
   passenger: number;kf
   transmission: string;ik
-};jff
+};jffg
 ff
 const CarItem = ({ff
   title,f
