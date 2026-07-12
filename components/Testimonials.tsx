@@ -14,7 +14,7 @@ const Testimonials = () => {
       {gfdsgfdbkugds
         breakpoint: 1280,gfghku
         settings: {gfdsfgyujgfd
-          slidesToShow: 2,
+          slidesToShow: 2,gtd
         },gds
       },gfdsfgdsgre
       {gfd
