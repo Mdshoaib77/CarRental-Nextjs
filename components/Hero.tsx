@@ -14,7 +14,7 @@ const Hero = () => {nn
           <div className="flex gap-2">gfhfgdjhgf
             <Link href={"/"}>
               <Imagegjhgf
-                src={"/appstore-btn.svg"}
+                src={"/appstore-btn.svg"}jghf
                 alt="appStore"
                 height={130}
                 width={130}
