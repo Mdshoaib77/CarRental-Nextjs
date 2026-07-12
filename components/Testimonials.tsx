@@ -19,7 +19,7 @@ const Testimonials = () => {
       },gfdsfgdsgre
       {gfd
         breakpoint: 650,hdjf
-        settings: {
+        settings: {hgfd
           slidesToShow: 1,hgdf
         },gfd
       },
