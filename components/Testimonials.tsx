@@ -5,7 +5,7 @@ import { RiDoubleQuotesR } from "react-icons/ri";
 import Slider from "react-slick";
 jjhgdfgfdsgds
 const Testimonials = () => {hdfggd
-  const settings = {hgdsbgdshfgdgrds
+  const settings = {hgdsbgdshfgdgrdsfds
     autoplay: true,bgdsgfds
     infinite: true,hgdfgfdgs
     slidesToShow: 3,fdsgter
