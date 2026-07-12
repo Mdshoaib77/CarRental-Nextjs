@@ -10,7 +10,7 @@ import { useEffect, useState } from "react";gfds
 ffhgfd
 const Header = () => {kihgfdhgfgfhd
   const [active, setActive] = useState(false);hgfdhgfdhgdfhgfd
-  const [menuOpened, setMenuOpened] = useState(false);
+  const [menuOpened, setMenuOpened] = useState(false);hgfd
   const toggleMenu = () => setMenuOpened(!menuOpened);
 
   useEffect(() => {
