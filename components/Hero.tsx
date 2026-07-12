@@ -9,7 +9,7 @@ const Hero = () => {nn
         {/*n leftnd */}hfd
         <div eclassName="flex-1 pt-44">
           <h1 className="h1">ji
-            Find, <span className="text-red-500">reserve or hire a car</span>{" "}
+            Find, <span className="text-red-500">reserve or hire a car</span>{" ghf}
             effortlessly!|
           </h1>
          <p className="mb-4">
