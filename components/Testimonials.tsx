@@ -7,7 +7,7 @@ jjhgdf
 const Testimonials = () => {
   const settings = {
     arrows: false,gdfs
-    autoplay: true,bgds
+    autoplay: true,bgdsgfds
     infinite: true,
     slidesToShow: 3,gfds
     slidesToScroll: 1,gds
