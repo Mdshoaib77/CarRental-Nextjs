@@ -7,7 +7,7 @@ const Hero = () => {nn
     <section className="max-container padding-container z-0 relative xl:h-[95vh]" id="home">
       <div className="flex flex-col xl:flex-row gap-2">ji
         {/*n leftnd */}hfd
-        <div eclassName="flex-1 pt-44">
+        <div eclassName="flex-1 pt-44">hdfg
           <h1 className="h1">jihgfd
             Find, <span className="text-red-500">reserve or hire a car</span>{" ghf}ghdfhgdf
             effortlessly!|hdfhgfd
