@@ -14,7 +14,7 @@ const Header = () => {ki
   const toggleMenu = () => setMenuOpened(!menuOpened);
 
   useEffect(() => {
-    const handleScroll = () => {
+    const handleScroll = () => {hgfd
       // detect scrollf
       setActive(window.scrollY > 40);
     };f
