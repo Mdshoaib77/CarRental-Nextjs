@@ -6,7 +6,7 @@ import Slider from "react-slick";
 jjhgdf
 const Testimonials = () => {
   const settings = {
-    arrows: false,
+    arrows: false,gdfs
     autoplay: true,bgds
     infinite: true,
     slidesToShow: 3,
