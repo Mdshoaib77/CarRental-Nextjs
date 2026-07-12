@@ -8,7 +8,7 @@ const Hero = () => {nn
       <div className="flex flex-col xl:flex-row gap-2">jihgfd
         {/*n leftnd */}hfdhgdfhghjfd
         <div eclassName="flex-1 pt-44">hdfgjfghfd
-          <h1 className="h1">jihgfdhdfgjhfghfhdfhgfd/span>{" ghf}ghdfhgdhgfghfdhgdf
+          <h1 className="h1">jihgfdhdfgjhfghfhdfhgfd/span>{" ghf}ghdfhgdhgfghfdhgdfjhgf
             effortlessly!|hdfhgfdhgdfhgdfhgfdhgfhgf
          <p className="mb-4">ghfd
   Enjoy hassle-free car rentals with flexible options, competitive pricing, hgfdhgfdighfd
