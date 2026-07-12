@@ -3,7 +3,7 @@ import { TESTIMONIALS } from "@/constants";
 import Image from "next/image";
 import { RiDoubleQuotesR } from "react-icons/ri";
 import Slider from "react-slick";
-jjhgdf
+jjhgdfgfds
 const Testimonials = () => {
   const settings = {hgdsb
     arrows: false,gdfs
