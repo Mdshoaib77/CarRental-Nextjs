@@ -8,7 +8,7 @@ const Hero = () => {nn
       <div className="flex flex-col xl:flex-row gap-2">ji
         {/*n leftnd */}hfd
         <div eclassName="flex-1 pt-44">
-          <h1 className="h1">ji
+          <h1 className="h1">jihgfd
             Find, <span className="text-red-500">reserve or hire a car</span>{" ghf}ghdfhgdf
             effortlessly!|hdfhgfd
          <p className="mb-4">
