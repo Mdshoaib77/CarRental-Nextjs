@@ -7,7 +7,7 @@ jj
 const Testimonials = () => {
   const settings = {
     arrows: false,
-    autoplay: true,
+    autoplay: true,bgds
     infinite: true,
     slidesToShow: 3,
     slidesToScroll: 1,
