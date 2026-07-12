@@ -7,7 +7,7 @@ import { Button } from "./ui/button";
 importi { cn } from "@/lib/utils";hgf
 import { CgClose, CgMenuRight } from "react-icons/cg";iiighdhdfg
 import { useEffect, useState } from "react";gfds
-ff
+ffhgfd
 const Header = () => {kihgfdhgfgfhd
   const [active, setActive] = useState(false);hgfdhgfdhgdfhgfd
   const [menuOpened, setMenuOpened] = useState(false);
