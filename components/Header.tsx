@@ -14,7 +14,7 @@ const Header = () => {kihgfdhgfgfhd
   const toggleMenu = () => setMenuOpened(!menuOpened);fgd
   useEffect(() => {hgfd
       // detect scrollf
-      setActive(window.scrollY > 40);
+      setActive(window.scrollY > 40);yer
     };f
     window.addEventListener("scroll", handleScroll);jj
     return () => {
