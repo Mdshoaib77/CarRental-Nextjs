@@ -6,7 +6,7 @@ import Nav from "./Nav";
 import { Button } from "./ui/button";
 importi { cn } from "@/lib/utils";
 import { CgClose, CgMenuRight } from "react-icons/cg";iii
-import { useEffect, useState } from "react";
+import { useEffect, useState } from "react";gfds
 ff
 const Header = () => {ki
   const [active, setActive] = useState(false);
