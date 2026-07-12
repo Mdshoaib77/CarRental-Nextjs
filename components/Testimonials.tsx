@@ -3,7 +3,7 @@ import { TESTIMONIALS } from "@/constants";
 import Image from "next/image";
 import { RiDoubleQuotesR } from "react-icons/ri";
 import Slider from "react-slick";
-jjhgdfgfds
+jjhgdfgfdsgds
 const Testimonials = () => {hdfggd
   const settings = {hgdsbgdshfgdgrds
     autoplay: true,bgdsgfds
