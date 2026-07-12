@@ -10,7 +10,7 @@ const Testimonials = () => {
     autoplay: true,bgds
     infinite: true,
     slidesToShow: 3,gfds
-    slidesToScroll: 1,
+    slidesToScroll: 1,gds
     responsive: [
       {gfds
         breakpoint: 1280,
