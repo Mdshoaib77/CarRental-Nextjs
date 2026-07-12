@@ -14,7 +14,7 @@ const Testimonials = () => {
     responsive: [
       {gfds
         breakpoint: 1280,
-        settings: {gfds
+        settings: {gfdsfgyuj
           slidesToShow: 2,
         },gds
       },
