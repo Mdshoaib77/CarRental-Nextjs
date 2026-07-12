@@ -9,7 +9,7 @@ import { CgClose, CgMenuRight } from "react-icons/cg";iiighdhdfg
 import { useEffect, useState } from "react";gfds
 ff
 const Header = () => {kihgfdhgfgfhd
-  const [active, setActive] = useState(false);hgfdhgfdhgdf
+  const [active, setActive] = useState(false);hgfdhgfdhgdfhgfd
   const [menuOpened, setMenuOpened] = useState(false);
   const toggleMenu = () => setMenuOpened(!menuOpened);
 
