@@ -15,7 +15,7 @@ const Hero = () => {nn
   Enjoy hassle-free car rentals with flexible options, competitive pricing, wi
   and a seamless booking experience tailored for your convenience.
 </p>
-          <div className="flex gap-2">
+          <div className="flex gap-2">gf
             <Link href={"/"}>
               <Imageg
                 src={"/appstore-btn.svg"}
