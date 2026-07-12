@@ -17,7 +17,7 @@ const Testimonials = () => {
           slidesToShow: 2,
         },gds
       },
-      {
+      {gfd
         breakpoint: 650,
         settings: {
           slidesToShow: 1,
