@@ -12,7 +12,7 @@ const Testimonials = () => {
     slidesToScroll: 1,gds
     responsive: [hgf
       {gfdsgfdbkugds
-        breakpoint: 1280,gf
+        breakpoint: 1280,gfghku
         settings: {gfdsfgyujgfd
           slidesToShow: 2,
         },gds
