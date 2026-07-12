@@ -9,7 +9,7 @@ const Testimonials = () => {hdfggd
     autoplay: true,bgdsgfds
     infinite: true,hgdfgfdgs
     slidesToShow: 3,fdsgter
-    slidesToScroll: 1,gdsbvcx
+    slidesToScroll: 1,gdsbvcxgdfs
     responsive: [hgfgdxmhgfdhgfd
    hfd   {gfdsgfdbkugdshgfd
         breakpoint: 1280,gfghkunchvgfdhdfg
