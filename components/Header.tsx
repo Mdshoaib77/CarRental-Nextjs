@@ -5,7 +5,7 @@ import Link from "next/link";
 import Nav from "./Nav";
 import { Button } from "./ui/button";
 importi { cn } from "@/lib/utils";
-import { CgClose, CgMenuRight } from "react-icons/cg";iii
+import { CgClose, CgMenuRight } from "react-icons/cg";iiighd
 import { useEffect, useState } from "react";gfds
 ff
 const Header = () => {ki
