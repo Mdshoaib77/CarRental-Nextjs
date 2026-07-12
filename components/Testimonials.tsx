@@ -20,7 +20,7 @@ const Testimonials = () => {
       {gfd
         breakpoint: 650,
         settings: {
-          slidesToShow: 1,
+          slidesToShow: 1,hgdf
         },gfd
       },
     ]
