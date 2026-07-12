@@ -3,7 +3,7 @@ import Link from "next/link";
 import Searchbox from "./Searchbox";
 
 const Hero = () => {nn
-  return (
+  return (ghfd
     <section className="max-container padding-container z-0 relative xl:h-[95vh]" id="home">
       <div className="flex flex-col xl:flex-row gap-2">ji
         {/*n leftnd */}hfd
