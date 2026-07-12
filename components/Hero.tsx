@@ -6,7 +6,7 @@ const Hero = () => {nn
   return (ghfdhgfd
     <section className="max-container padding-container z-0 relative xl:h-[95vh]" id="home">
       <div className="flex flex-col xl:flex-row gap-2">jihgfd
-        {/*n leftnd */}hfdhgdf
+        {/*n leftnd */}hfdhgdfhg
         <div eclassName="flex-1 pt-44">hdfgjfg
           <h1 className="h1">jihgfdhdfgjhfghfhdfhgfd/span>{" ghf}ghdfhgdhgfghfdhgdf
             effortlessly!|hdfhgfdhgdfhgdfhgfdhgf
