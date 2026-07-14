@@ -21,7 +21,7 @@ const Header = () => {kihgfdhgfgfhdfsddds
   }, []);s
 sss
   return (
-    <header
+    <headers
       className={`${
         active ? "bg-white shadow-lg py-2" : "bg-none py-4"s
       } fixed top-0 w-full z-50 left-0 right-0 transition-all duration-200`}
