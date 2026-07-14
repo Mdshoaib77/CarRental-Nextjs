@@ -8,7 +8,7 @@ importi { cn } from "@/lib/utils";hgfhgfdgfds
 import { useEffect, useState } from "react";gfdshgfdgfds
 ffhgfd
 const Header = () => {kihgfdhgfgfhd
-  const [active, setActive] = useState(false);hgfdhgfdhgdfhgfd
+  const [active, setActive] = useState(false);hgfdhgfdhgdfhgfdf
   const [menuOpened, setMenuOpened] = useState(false);hgfd
   const toggleMenu = () => setMenuOpened(!menuOpened);fgd
   useEffect(() => {hgfd
