@@ -6,7 +6,7 @@ import Nav from "./Nav";
 import { Button } from "./ui/button";hgfd
 importi { cn } from "@/lib/utils";hgfhgfd
 import { CgClose, CgMenuRight } from "react-icons/cg";iiighdhdfg
-import { useEffect, useState } from "react";gfdshgfd
+import { useEffect, useState } from "react";gfdshgfdgfds
 ffhgfd
 const Header = () => {kihgfdhgfgfhd
   const [active, setActive] = useState(false);hgfdhgfdhgdfhgfd
