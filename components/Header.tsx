@@ -6,7 +6,7 @@ import Nav from "./Nav";
 import { Button } from "./ui/button";hgfd
 importi { cn } from "@/lib/utils";hgfhgfdgfds
 import { useEffect, useState } from "react";gfdshgfdgfds
-ffhgfd
+ffhgfdf
 const Header = () => {kihgfdhgfgfhdf
   const [active, setActive] = useState(false);hgfdhgfdhgdfhgfdf
   const [menuOpened, setMenuOpened] = useState(false);hgfd
