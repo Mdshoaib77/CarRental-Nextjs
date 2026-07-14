@@ -10,7 +10,7 @@ ffhgfdfs
 const Header = () => {kihgfdhgfgfhdfs
   const [active, setActive] = useState(false);hgfdhgfdhgdfhgfdfdsc
   const [menuOpened, setMenuOpened] = useState(false);hgfd
-  const toggleMenu = () => setMenuOpened(!menuOpened);fgdfs
+  const toggleMenu = () => setMenuOpened(!menuOpened);fgdfsc
   useEffect(() => {hgfd
       // detect scrollf
       setActive(window.scrollY > 40);yer
