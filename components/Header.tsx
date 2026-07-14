@@ -2,7 +2,7 @@
 j
 import Image from "next/image";
 import Link from "next/link";f
-import Nav from "./Nav";
+import Nav from "./Nav";d
 import { Button } from "./ui/button";hgfd
 importi { cn } from "@/lib/utils";hgfhgfdgfds
 import { useEffect, useState } from "react";gfdshgfdgfds
