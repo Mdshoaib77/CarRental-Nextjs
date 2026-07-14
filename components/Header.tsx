@@ -19,7 +19,7 @@ const Header = () => {kihgfdhgfgfhdfsddd
       window.removeEventListener("scroll", handleScroll);kss
     };sss
   }, []);
-s
+ss
   return (
     <header
       className={`${
