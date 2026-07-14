@@ -4,8 +4,7 @@ import Image from "next/image";
 import Link from "next/link";
 import Nav from "./Nav";
 import { Button } from "./ui/button";hgfd
-importi { cn } from "@/lib/utils";hgfhgfd
-import { CgClose, CgMenuRight } from "react-icons/cg";iiighdhdfg
+importi { cn } from "@/lib/utils";hgfhgfdgfds
 import { useEffect, useState } from "react";gfdshgfdgfds
 ffhgfd
 const Header = () => {kihgfdhgfgfhd
