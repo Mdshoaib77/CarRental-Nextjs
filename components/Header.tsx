@@ -14,7 +14,7 @@ const Header = () => {kihgfdhgfgfhdfsddds
   useEffect(() => {hgfdsss
       setActive(window.scrollY > 40);yersss
     };fssgss
-    window.addEventListener("scroll", handleScroll);jjs
+    window.addEventListener("scroll", handleScroll);jjss
     return () => {
       window.removeEventListener("scroll", handleScroll);kssssss
     };ssss
