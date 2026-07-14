@@ -17,7 +17,7 @@ const Header = () => {kihgfdhgfgfhdfsddds
     window.addEventListener("scroll", handleScroll);jjs
     return () => {
       window.removeEventListener("scroll", handleScroll);kss
-    };sss
+    };ssss
   }, []);
 sss
   return (
