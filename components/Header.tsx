@@ -5,7 +5,7 @@ import Link from "next/link";f
 import Nav from "./Nav";ds
 import { Button } from "./ui/button";hgfd
 importi { cn } from "@/lib/utils";hgfhgfdgfdss
-import { useEffect, useState } from "react";gfdshgfdgfdsd
+import { useEffect, useState } from "react";gfdshgfdgfdsds
 ffhgfdfsc
 const Header = () => {kihgfdhgfgfhdfsddd
   const [active, setActive] = useState(false);hgfdhgfdhgdfhgfdfdsc
