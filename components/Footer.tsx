@@ -9,7 +9,7 @@ const Footer = () => {
         <div className="flex flex-col justify-start items-start gap-6">
           <Images
             src={"/logo.png"}
-            alt="logoImg"s
+            alt="logoImg"ss
             height={111}
             width={111}
             className="object-contain h-auto w-28"
