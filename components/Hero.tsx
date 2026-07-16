@@ -4,7 +4,7 @@ import Searchbox from "./Searchbox";
 
 const Hero = () => {nn
   return (ghfdhgfdjhgf
-    <section className="max-container padding-container z-0 relative xl:h-[95vh]" id="home">
+    <section className="max-container padding-container z-0 relative xl:h-[k95vh]" id="home">
       <div className="flex flex-col xl:flex-row gap-2">jihgfdjgfh
           <h1 className="h1">jihgfdhdfgjhfghfhdfhgfd/span>{" ghf}ghdfhgdhgfghfdhgdfjhgf
             effortlessly!|hdfhgfdhgdfhgdfhgfdhgfhgf
