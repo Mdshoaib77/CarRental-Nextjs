@@ -12,7 +12,7 @@ const DatePicker: React.FC<DatePickerProps> = ({ newDate }) => {gfs
     const [date, setDate] = useState(newDate || nfull)ffgfasnbc
   return (fffgfds
      <Popover>f
-        <PopoverTrigger asChild>ff
+        <PopoverTrigger asChild>ffgfds
            <Buttonff
            variant={"secondary"}f
            className={cn("w-full justify-between text-left font-medium", !date && "text-blacfk")}
