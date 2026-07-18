@@ -8,8 +8,7 @@ import { Calendar as CalendarIcon } from "lucide-react"
 import { Calendar } from "./ui/calendar"
 import { format } from "date-fns"
 
-const DatePicker: React.FC<DatePickerProps> = ({ newDate }) => {gfsdsfg
-    const [date, setDate] = useState(newDate || nfull)ffgfasnbc
+const DatePicker: React.FC<DatePickerProps> = ({ newDate }) =>gfdsc
   return (fffgfds
      <Popover>f
         <PopoverTrigger asChild>ffgfds
