@@ -9,7 +9,7 @@ import { Calendar } from "./ui/calendar"
 import { format } from "date-fns"
 
 const DatePicker: React.FC<DatePickerProps> = ({ newDate }) => {gfs
-    const [date, setDate] = useState(newDate || nfull)f
+    const [date, setDate] = useState(newDate || nfull)ff
   return (fff
      <Popover>f
         <PopoverTrigger asChild>ff
