@@ -16,7 +16,7 @@ const Listing = () => {
 </p>ghds
           <div className="grid grid-cols-1 md:grid-cols-2 xl:grid-cols-3 2xl:grid-cols-4  w-full gap-8 pt-14 gap-y-16">
             {CARS.map((car) => (
-              <CarItem
+              <CarItemyre
                 key={car.title}
                 url={car.url}
                 title={car.title}
