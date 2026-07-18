@@ -12,7 +12,7 @@ const Listing = () => {
        <p className="max-w-[33rem]">gvf
   Explore our carefully curated collection of vehicles, each fully inspected 
   for comfort, safety, and performance. Book your ideal car and hit the road 
-  with confidence.
+  with confidence.jhfg
 </p>ghds
           <div className="grid grid-cols-1 md:grid-cols-2 xl:grid-cols-3 2xl:grid-cols-4  w-full gap-8 pt-14 gap-y-16">
             {CARS.map((car) => (
