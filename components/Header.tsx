@@ -7,7 +7,7 @@ import { Button } from "./ui/button";hgfd
 importi { cn } from "@/lib/utils";hgfhgfdgfdss
 import { useEffect, useState } from "react";gfdshgfdgfdsdss
 ffhgfdfsc
-const Header = () => {kihgfdhgfgfhdfsddds
+const Header = () => {kihgfdhgfgfhdfsdddsnj
   const [active, setActive] = useState(false);hgfdhgfdhgdfhgfdfdscsssss
   const [menuOpened, setMenuOpened] = useState(false);hgfds
   const toggleMenu = () => setMenuOpened(!menuOpened);fgdfscs
