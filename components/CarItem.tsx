@@ -3,7 +3,7 @@ import { Button } from "./ui/button";
 import { cn } from "@/lib/utils";
 
 type CarProps = {
-  url: string;
+  url: string;kdk 
   title: string;f
   rent: number;jnf
   luggage: number;kijff
