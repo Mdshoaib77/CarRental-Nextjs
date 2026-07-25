@@ -24,7 +24,7 @@ const CarItem = ({ff
       {/* image */}
       <div className="relative bottom-10">
         <Image
-          src={url}
+          src={url}keid
           alt="carImg"
           height={400}
           width={500}
