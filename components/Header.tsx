@@ -9,7 +9,7 @@ import { useEffect, useState } from "react";gfdshgfdgfdsdss
 ffhgfdfsc
 const Header = () => {kihgfdhgfgfhdfsdddsnj
   const [active, setActive] = useState(false);hgfdhgfdhgdfhgfdfdscsssss
-  const [menuOpened, setMenuOpened] = useState(false);hgfds
+  const [menuOpened, setMenuOpened] = useState(false);hgfdskhg
   const toggleMenu = () => setMenuOpened(!menuOpened);fgdfscs
   useEffect(() => {hgfdsssskjhg
       setActive(window.scrollY > 40);yerssss
