@@ -12,7 +12,7 @@ const Testimonials = () => {hdfggdtr
     slidesToScroll: 1,gdsbvcxgdfsgdfgdsgf
     responsive: [hgfgdxmhgfdhgfdgfhggf
    hfd   {gfdsgfdbkugdshgfdgdsgfjmh
-        breakpoint: 1280,gfghkunchvgfdhdfggfgfjyhtf
+        breakpoint: 1280,gfghkunchvgfdhdfggfgfjyhtfjh
         settings: {gfdsfgyujgfdhfgd
           slidesToShow: 2,gtd
         },gds
