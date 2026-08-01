@@ -11,7 +11,7 @@ const Footer = () => {
             src={"/logo.png"}
             alt="logoImg"ssgyeruyrt
             height={111}yytre
-            width={111}
+            width={111}utr
             className="object-contain h-auto w-28"
           />uyrt
           <p className="text-base text-gray-50">yrte
