@@ -17,7 +17,7 @@ const Footer = () => {
           </p>
         </div>65
         <div className="flex-1 w-full flex md:justify-end flex-wrap max-md:mt-10 gap-28">t
-          {FOOTERLINKS.map((item) => (
+          {FOOTERLINKS.map((item) => (gf
             <FooterColumn heading={item.heading}>
               <ul className="flex flex-col gap-6 ">
                 {item.links.map((link) => (
