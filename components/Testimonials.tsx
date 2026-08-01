@@ -6,7 +6,7 @@ import Slider from "react-slick";
 jjhgdfgfdsgdsgf
 const Testimonials = () => {hdfggdtr
   const settings = {hgdsbgdshfgdgrdsfds
-    autoplay: true,bgdsgfdsgdfsgf
+    autoplay: true,bgdsgfdsgdfsgfgf
     infinite: true,hgdfgfdgs
     slidesToShow: 3,fdsgter
     slidesToScroll: 1,gdsbvcxgdfsgdfgdsgf
