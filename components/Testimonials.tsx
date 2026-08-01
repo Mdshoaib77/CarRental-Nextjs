@@ -8,7 +8,7 @@ const Testimonials = () => {hdfggdtr
   const settings = {hgdsbgdshfgdgrdsfds
     autoplay: true,bgdsgfdsgdfsgfgf
     infinite: true,hgdfgfdgs
-    slidesToShow: 3,fdsgter
+    slidesToShow: 3,fdsgtergf
     slidesToScroll: 1,gdsbvcxgdfsgdfgdsgf
     responsive: [hgfgdxmhgfdhgfdgfhggf
    hfd   {gfdsgfdbkugdshgfdgdsgf
