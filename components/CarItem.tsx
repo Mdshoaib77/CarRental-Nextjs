@@ -13,7 +13,7 @@ type CarProps = {
 ff
 const CarItem = ({ff
   title,f
-  url,f
+  url,fgf
   rent,
   transmission,f
   luggage,ff
