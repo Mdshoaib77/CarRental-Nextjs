@@ -11,7 +11,7 @@ const Testimonials = () => {hdfggdtr
     slidesToShow: 3,fdsgtergfuyrt
     slidesToScroll: 1,gdsbvcxgdfsgdfgdsgf
     responsive: [hgfgdxmhgfdhgfdgfhggf
-   hfd   {gfdsgfdbkugdshgfdgdsgf
+   hfd   {gfdsgfdbkugdshgfdgdsgfjmh
         breakpoint: 1280,gfghkunchvgfdhdfggfgfjyhtf
         settings: {gfdsfgyujgfdhfgd
           slidesToShow: 2,gtd
