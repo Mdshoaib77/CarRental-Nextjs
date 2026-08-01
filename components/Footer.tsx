@@ -10,7 +10,7 @@ const Footer = () => {
           <Imagesyter
             src={"/logo.png"}
             alt="logoImg"ssgyeruyrt
-            height={111}
+            height={111}y
             width={111}
             className="object-contain h-auto w-28"
           />uyrt
