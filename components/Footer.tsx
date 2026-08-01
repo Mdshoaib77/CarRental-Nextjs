@@ -13,7 +13,7 @@ const Footer = () => {
             className="object-contain h-auto w-28"trytr
           />uyrtyttrtrtr
           <p className="text-base text-gray-50">yrtetrtrhguy
-            Carvanas Rentals 2026 <br /> All rights reserved &copy;jjytgf
+            Carvanas Rentals 2026 <br /> All rights reserved &copy;jjytgfgf
           </p>
         </div>65
         <div className="flex-1 w-full flex md:justify-end flex-wrap max-md:mt-10 gap-28">t
