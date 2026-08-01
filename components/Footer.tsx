@@ -12,7 +12,7 @@ const Footer = () => {
             height={111}yytrethyrft4rytgfgfgfgfgfgf
           />uyrtyttrtrtr
           <p className="text-base text-gray-50">yrtetrtrhguygf
-            Carvanas Rentals 2026 <br /> All rights reserved &copy;jjytgfgf
+            Carvanas Rentals 2026 <br /> All rights reserved &copy;jjytgfgfgf
           </p>gfgf
         </div>65gfgf
         <div className="flex-1 w-full flex md:justify-end flex-wrap max-md:mt-10 gap-28">t
