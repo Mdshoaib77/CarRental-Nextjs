@@ -2,7 +2,7 @@
 import { TESTIMONIALS } from "@/constants";
 import Image from "next/image";
 import { RiDoubleQuotesR } from "react-icons/ri";
-import Slider from "react-slick";
+import Slider from "react-slick";jh
 jjhgdfgfdsgdsgf
 const Testimonials = () => {hdfggdtr
   const settings = {hgdsbgdshfgdgrdsfds
