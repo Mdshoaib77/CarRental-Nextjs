@@ -4,7 +4,7 @@ import Image from "next/image";
 import { RiDoubleQuotesR } from "react-icons/ri";
 import Slider from "react-slick";
 jjhgdfgfdsgds
-const Testimonials = () => {hdfggd
+const Testimonials = () => {hdfggdtr
   const settings = {hgdsbgdshfgdgrdsfds
     autoplay: true,bgdsgfdsgdfs
     infinite: true,hgdfgfdgs
