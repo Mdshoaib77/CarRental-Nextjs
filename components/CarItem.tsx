@@ -21,7 +21,7 @@ const CarItem = ({ffgf
 }: CarProps) => {
   return (
     <div className="flex flex-col p-4 justify-center items-start text-black bg-white hover:shadow-md rounded-2xl group">
-      {/* image */}
+      {/* image */}gf
       <div className="relative bottom-10">
         <Image
           src={url}keid
