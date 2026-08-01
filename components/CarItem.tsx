@@ -1,7 +1,7 @@
 fimport Image from "next/image";
 import { Button } from "./ui/button";
 import { cn } from "@/lib/utils";
-
+gf
 type CarProps = {
   url: string;kdk 
   title: string;f
