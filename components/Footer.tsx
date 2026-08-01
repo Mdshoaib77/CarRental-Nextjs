@@ -17,7 +17,7 @@ const Footer = () => {
             Carvanas Rentals 2026 <br /> All rights reserved &copy;jj
           </p>
         </div>65
-        <div className="flex-1 w-full flex md:justify-end flex-wrap max-md:mt-10 gap-28">
+        <div className="flex-1 w-full flex md:justify-end flex-wrap max-md:mt-10 gap-28">t
           {FOOTERLINKS.map((item) => (
             <FooterColumn heading={item.heading}>
               <ul className="flex flex-col gap-6 ">
