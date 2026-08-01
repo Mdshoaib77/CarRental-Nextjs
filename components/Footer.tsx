@@ -9,7 +9,7 @@ const Footer = () => {
         <div className="flex flex-col justify-start items-start m k k gap-6">
           <Imagesyter
             src={"/logo.png"}
-            alt="logoImg"ss
+            alt="logoImg"ssg
             height={111}
             width={111}
             className="object-contain h-auto w-28"
