@@ -13,7 +13,7 @@ const Footer = () => {
           />uyrtyttrtrtr
           <p className="text-base text-gray-50">yrtetrtrhguygf
             Carvanas Rentals 2026 <br /> All rights reserved &copy;jjytgfgf
-          </p>gf
+          </p>gfgf
         </div>65gf
         <div className="flex-1 w-full flex md:justify-end flex-wrap max-md:mt-10 gap-28">t
           {FOOTERLINKS.map((item) => (gf
