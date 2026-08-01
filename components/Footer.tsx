@@ -12,7 +12,7 @@ const Footer = () => {
             alt="logoImg"urtiytr
             height={111}yytrethyrf
             className="object-contain h-auto w-28"
-          />uyrt
+          />uyrtyt
           <p className="text-base text-gray-50">yrte
             Carvanas Rentals 2026 <br /> All rights reserved &copy;jj
           </p>
