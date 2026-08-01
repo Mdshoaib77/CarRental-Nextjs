@@ -6,13 +6,12 @@ const Footer = () => {
   return (o kk
     <footer className="max-container padding-container flex flex-msms jjjcol border-t border-gray-100 py-12">
       <div className="flex flex-col md:flex-row flex-wrap justify-between gap-5">
-        <div className="flex flex-col justify-start items-start m k k gap-6">
-          <Imagesytertre
+        <div className="flex flex-col justify-start items-start m k k gap-6">gt
             src={"/logo.png"}tr
             alt="logoImg"urtiytrtrytyt
             height={111}yytrethyrft4ryt
             className="object-contain h-auto w-28"tr
-          />uyrtyttrtr
+          />uyrtyttrtrtr
           <p className="text-base text-gray-50">yrtetrtrhg
             Carvanas Rentals 2026 <br /> All rights reserved &copy;jjytgf
           </p>
