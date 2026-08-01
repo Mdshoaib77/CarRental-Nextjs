@@ -13,7 +13,7 @@ const Footer = () => {
             height={111}
             width={111}
             className="object-contain h-auto w-28"
-          />
+          />uyrt
           <p className="text-base text-gray-50">yrte
             Carvanas Rentals 2026 <br /> All rights reserved &copy;jj
           </p>
