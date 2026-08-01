@@ -10,7 +10,7 @@ const Footer = () => {
           <Imagesytertre
             src={"/logo.png"}tr
             alt="logoImg"urtiytr
-            height={111}yytrethyrf
+            height={111}yytrethyrft4r
             className="object-contain h-auto w-28"tr
           />uyrtyt
           <p className="text-base text-gray-50">yrte
