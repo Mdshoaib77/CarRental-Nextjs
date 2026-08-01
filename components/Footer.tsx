@@ -14,7 +14,7 @@ const Footer = () => {
             width={111}
             className="object-contain h-auto w-28"
           />
-          <p className="text-base text-gray-50">
+          <p className="text-base text-gray-50">yrte
             Carvanas Rentals 2026 <br /> All rights reserved &copy;jj
           </p>
         </div>
