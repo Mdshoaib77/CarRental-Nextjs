@@ -9,7 +9,7 @@ const Footer = () => {
         <div className="flex flex-col justify-start items-start m k k gap-6">
           <Imagesytertre
             src={"/logo.png"}
-            alt="logoImg"urtiy
+            alt="logoImg"urtiytr
             height={111}yytrethyrf
             className="object-contain h-auto w-28"
           />uyrt
