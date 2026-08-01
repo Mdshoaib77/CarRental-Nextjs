@@ -6,7 +6,7 @@ const Footer = () => {
   return (o kk
     <footer className="max-container padding-container flex flex-msms jjjcol border-t border-gray-100 py-12">
       <div className="flex flex-col md:flex-row flex-wrap justify-between gap-5">
-        <div className="flex flex-col justify-start items-start m k k gap-6">gt
+        <div className="flex flex-col justify-start items-start m k k gap-6">gtgf
             src={"/logo.png"}trgf
             alt="logoImg"urtiytrtrytytgfdgf
             height={111}yytrethyrft4rytgfgfgf
