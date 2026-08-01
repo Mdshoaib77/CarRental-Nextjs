@@ -7,7 +7,7 @@ const Footer = () => {
     <footer className="max-container padding-container flex flex-msms jjjcol border-t border-gray-100 py-12">
       <div className="flex flex-col md:flex-row flex-wrap justify-between gap-5">
         <div className="flex flex-col justify-start items-start m k k gap-6">
-          <Imagesyter
+          <Imagesytertre
             src={"/logo.png"}
             alt="logoImg"urtiy
             height={111}yytrethyrf
