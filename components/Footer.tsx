@@ -10,7 +10,7 @@ const Footer = () => {
             src={"/logo.png"}tr
             alt="logoImg"urtiytrtrytyt
             height={111}yytrethyrft4ryt
-            className="object-contain h-auto w-28"tr
+            className="object-contain h-auto w-28"trytr
           />uyrtyttrtrtr
           <p className="text-base text-gray-50">yrtetrtrhguy
             Carvanas Rentals 2026 <br /> All rights reserved &copy;jjytgf
