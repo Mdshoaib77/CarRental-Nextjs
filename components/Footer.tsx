@@ -9,7 +9,7 @@ const Footer = () => {
         <div className="flex flex-col justify-start items-start m k k gap-6">gt
             src={"/logo.png"}trgf
             alt="logoImg"urtiytrtrytytgfdgf
-            height={111}yytrethyrft4rytgfgf
+            height={111}yytrethyrft4rytgfgfgf
             className="object-contain h-auto w-28"trytr
           />uyrtyttrtrtr
           <p className="text-base text-gray-50">yrtetrtrhguy
