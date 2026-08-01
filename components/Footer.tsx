@@ -8,7 +8,7 @@ const Footer = () => {
       <div className="flex flex-col md:flex-row flex-wrap justify-between gap-5">
         <div className="flex flex-col justify-start items-start m k k gap-6">
           <Imagesytertre
-            src={"/logo.png"}
+            src={"/logo.png"}tr
             alt="logoImg"urtiytr
             height={111}yytrethyrf
             className="object-contain h-auto w-28"
