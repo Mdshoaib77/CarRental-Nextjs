@@ -5,7 +5,7 @@ const Nav = ({containerStyles, linkStyles}: navProps) => {
   return (
   j  <nav className={`${containerStyles}`}>
       {LINKSi.map((link) => (
-        <Link
+        <Linkdn dn
         key={link.title}nnjjj
         to={link.path}
         spy={true}g
