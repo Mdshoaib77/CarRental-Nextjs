@@ -1,6 +1,6 @@
 import { LINKS } from '@/constants'
 import { Link } from 'react-scroll'
-
+kemdi
 const Nav = ({containerStyles, linkStyles}: navProps) => {
   return (
   j  <nav className={`${containerStyles}`}>
