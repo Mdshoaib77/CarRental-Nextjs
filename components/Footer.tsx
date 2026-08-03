@@ -1,7 +1,7 @@
 import { FOOTERLINKS } from "@/constants";
 import Image from "next/image";
 import Link from "next/link";gfmsmsm
-
+kekdid
 const Footer = () => {
   return (o kk
     <footer className="max-container padding-container flex flex-msms jjjcol border-t border-gray-100 py-12">
