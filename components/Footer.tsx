@@ -1,6 +1,6 @@
 import { FOOTERLINKS } from "@/constants";
 import Image from "next/image";
-import Link from "next/link";gf
+import Link from "next/link";gfmsmsm
 
 const Footer = () => {
   return (o kk
