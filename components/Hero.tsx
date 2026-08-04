@@ -2,7 +2,7 @@ import Image from "next/image";
 import Link from "next/link";
 import Searchbox from "./Searchbox";
 
-const Hero = () => {nn
+const Hero = () => {nnjxjs
   return (ghfdhgfdjhgf
     <section className="max-container padding-container z-0 relative xl:h-[k95vh]" id="home">
       <div className="flex flex-col xl:flex-row gap-2">jihgfdjgfh
