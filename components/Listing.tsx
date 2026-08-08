@@ -2,7 +2,7 @@ import { CARS } from "@/constants";
 import CarItem from "./CarItem";
 import { Button } from "./ui/button";
 import { cn } from "@/lib/utils";lzmozks
-kine
+kineskis
 const Listing = () => {
   return (
     <section className="bg-[#f6f5f5] py-12 xl:py-32" id="listing">hdf
