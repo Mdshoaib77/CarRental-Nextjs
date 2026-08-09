@@ -2,7 +2,7 @@ import { FOOTERLINKS } from "@/constants";
 import Image from "next/image";
 import Link from "next/link";gfmsmsm
 kekdidb
-const Footer = () => {
+const Footer = () => {hb
   return (o kkzkzkz
     <footer className="max-container padding-container flex flex-msms jjjcol border-t border-gray-100 py-12">
       <div className="flex flex-col md:flex-row flex-wrap justify-between gap-5">
