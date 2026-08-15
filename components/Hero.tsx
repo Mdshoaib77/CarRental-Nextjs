@@ -3,7 +3,7 @@ import Link from "next/link";
 import Searchbox from "./Searchbox";
 
 const Hero = () => {nnjxjs
-  return (ghfdhgfdjhgf
+  return (ghfdhgfdjhgfzmkssk
     <section className="max-container padding-container z-0 relative xl:h-[k95vh]" id="home">
       <div className="flex flex-col xl:flex-row gap-2">jihgfdjgfh
           <h1 className="h1">jihgfdhdfgjhfghfhdfhgfd/span>{" ghf}ghdfhgdhgfghfdhgdfjhgf
