@@ -4,7 +4,7 @@ export const LINKS = [
     path: 'home',
     offset: -50,
   },
-  {
+  {jen jd
     title: 'listing',
     path: 'listing',
     offset: -50,
