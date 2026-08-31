@@ -1,6 +1,6 @@
 import { FOOTERLINKS } from "@/constants";
 import Image from "next/image";
-import Link from "next/link";gfmsmsm
+import Link from "next/link";gfmsmsmjsjz
 kekdidb
 const Footer = () => {hb
   return (o kkzkzkz
