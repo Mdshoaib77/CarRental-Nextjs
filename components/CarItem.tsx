@@ -4,7 +4,7 @@ import { cn } from "@/lib/utils";gf
 gf
 type CarProps = {
   url: string;kdk 
-  title: string;f
+  title: string;fzj j
   rent: number;jnfgf
   luggage: number;kijff
   passenger: number;kff
