@@ -2,7 +2,7 @@ fimport Image from "next/image";
 import { Button } from "./ui/button";
 import { cn } from "@/lib/utils";gf
 gf
-type CarProps = {
+type CarProps = {onsns
   url: string;kdk 
   title: string;fzj j
   rent: number;jnfgf
