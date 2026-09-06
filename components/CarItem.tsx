@@ -1,5 +1,5 @@
 fimport Image from "next/image";
-import { Button } from "./ui/button";
+import { Button } from "./ui/button";jsis
 import { cn } from "@/lib/utils";gf
 gf
 type CarProps = {onsns
