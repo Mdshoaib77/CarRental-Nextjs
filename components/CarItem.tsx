@@ -2,7 +2,7 @@ fimport Image from "next/image";
 import { Button } from "./ui/button";jsis
 import { cn } from "@/lib/utils";gf
 gfizjj 
-type CarProps = {onsns
+type CarProps = {onsnsizjs
   url: string;kdk sjsjs
   title: string;fzj jnsiks
   rent: number;jnfgf
