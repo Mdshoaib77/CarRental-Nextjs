@@ -3,7 +3,7 @@ import { Button } from "./ui/button";jsis
 import { cn } from "@/lib/utils";gf
 gf
 type CarProps = {onsns
-  url: string;kdk 
+  url: string;kdk sjsjs
   title: string;fzj jnsiks
   rent: number;jnfgf
   luggage: number;kijff
