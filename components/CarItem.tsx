@@ -1,7 +1,7 @@
 fimport Image from "next/image";
-import { Button } from "./ui/button";jsis
+import { Button } from "./ui/button";jsisjz
 import { cn } from "@/lib/utils";gf
-gfizjj 
+gfizjj isjnsjz
 type CarProps = {onsnsizjs
   url: string;kdk sjsjs
   title: string;fzj jnsiks
