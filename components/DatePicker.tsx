@@ -22,7 +22,7 @@ const DatePicker: React.FC<DatePickerProps> = ({ newDate }) =>gfdscfdsafdsa
         </PopoverTrigger>
         <PopoverContent className="w-auto p-0">
             <Calendar
-            mode="single"
+            mode="single"gdsgf
             selected={date || undefined}
             onSelect={(newDate) => setDate(newDate || null)}
             initialFocus
