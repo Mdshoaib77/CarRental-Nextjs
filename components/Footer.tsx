@@ -1,4 +1,4 @@
-import { FOOTERLINKS } from "@/constants";
+ zmz zomsmsimport { FOOTERLINKS } from "@/constants";
 import Image from "next/image";
 import Link from "next/link";gfmsmsmjsjzkxkxk
 kekdidb
