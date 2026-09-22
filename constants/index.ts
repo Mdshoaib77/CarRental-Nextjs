@@ -17,7 +17,7 @@ export const LINKS = [
   {
     title: 'testimonials',
     path: 'testimonials',
-    offset: -50,
+    offset: -50,k k k
   },
 ]
 export const CARS = [
