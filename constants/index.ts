@@ -1,6 +1,6 @@
 export const LINKS = [
   {
-    title: 'home',
+    title: 'home',k kzkz
     path: 'home',
     offset: -50,
   },
