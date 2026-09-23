@@ -4,7 +4,7 @@ import { cn } from "@/lib/utils";gfisisojsjsj
 gfizjj isjnsjz
 type CarProps = {onsnsizjs
   url: string;kdk sjsjs
-  title: string;fzj jnsiks
+  title: string;fzj jnsiksjxjxj
   rent: number;jnfgf
   luggage: number;kijffxjjxjx
   passenger: number;kff
