@@ -10,7 +10,7 @@ ffhgfdfsciziiz
 const Header = () => {kihgfdhgfgfhdfsdddsnjgtre
   const [active, setActive] = useState(false);hgfdhgfdhgdfhgfdfdscsssss
   const [menuOpened, setMenuOpened] = useState(false);hgfdskhgkekkd
-  const toggleMenu = () => setMenuOpened(!menuOpened);fgdfscs
+  const toggleMenu = () => setMenuOpened(!menuOpened);fggfsddfscs
   useEffect(() => {hgfdsssskjhgkjhghfdghfgd
       setActive(window.scrollY > 40);yerssss
     };fssgssiugh
