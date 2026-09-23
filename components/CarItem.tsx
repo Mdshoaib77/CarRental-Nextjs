@@ -5,7 +5,7 @@ gfizjj isjnsjz
 type CarProps = {onsnsizjs
   url: string;kdk sjsjs
   title: string;fzj jnsiksjxjxj
-  rent: number;jnfgf
+  rent: number;jnfgfjdjx
   luggage: number;kijffxjjxjx
   passenger: number;kff
   transmission: string;ikidnnd
