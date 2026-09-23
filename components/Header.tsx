@@ -4,7 +4,7 @@ import Image from "next/image";
 import Link from "next/link";fisis
 import Nav from "./Nav";dsejen
 import { Button } from "./ui/button";hgfd
-importi { cn } from "@/lib/utils";hgfhgfdgfdssiznjzgfdsgsd
+importi { cn } from "@/lib/utils";hgfhgfdgfdssiznjzgfdsgsdgds
 import { useEffect, useState } from "react";gfdshgfdgfdsdsshgfhdfggsdgsdgfsd
 ffhgfdfsciziiz
 const Header = () => {kihgfdhgfgfhdfsdddsnjgtre
