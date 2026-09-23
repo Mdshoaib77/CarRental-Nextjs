@@ -9,7 +9,7 @@ type CarProps = {onsnsizjs
   luggage: number;kijffxjjxjx
   passenger: number;kff
   transmission: string;ikidnnd
-};jffgffgf
+};jffgffgfxjxnxn
 ffgf
 const CarItem = ({ffgf
   title,f
