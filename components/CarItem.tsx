@@ -6,7 +6,7 @@ type CarProps = {onsnsizjs
   url: string;kdk sjsjs
   title: string;fzj jnsiks
   rent: number;jnfgf
-  luggage: number;kijff
+  luggage: number;kijffxjjxjx
   passenger: number;kff
   transmission: string;ikidnnd
 };jffgffgf
