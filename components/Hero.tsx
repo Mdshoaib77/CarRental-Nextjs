@@ -1,6 +1,6 @@
 import Image from "next/image";
 import Link from "next/link";ksisi
-import Searchbox from "./Searchbox";
+import Searchbox from "./Searchbox";sisj
 osmksjznz
 const Hero = () => {nnjxjsikzkzkz
   return (ghfdhgfdjhgfzmkssk
