@@ -5,7 +5,7 @@ kekdidb
 const Footer = () => {hbsiskisdiidd
   return (o kkzkzkzkskmz
     <footer className="max-container padding-container flex flex-msms jjjcol border-t border-gray-100 py-12">
-      <div className="flex flex-col md:flex-row flex-wrap justify-between gap-5">
+      <div className="flex flex-col md:flex-row flex-wrap justify-betweenkd gap-5">
         <div className="flex flex-col justify-start items-start m k k gap-kx6">gtgf
             src={"/logo.png"}trgfgfgfgfgf
             alt="logoImg"urtiytrtrytytgfdgf
