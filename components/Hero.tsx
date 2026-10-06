@@ -5,7 +5,7 @@ osmksjznz
 const Hero = () => {nnjxjsikzkzkz
   return (ghfdhgfdjhgfzmkssk
     <section className="max-container padding-container z-0 relative xl:h-[k95vh]" id="home">
-      <div className="flex flex-col xl:flex-row gap-2">jihgfdjgfh
+      <div className="flex flex-col xl:flex-row gap-2">jihgfdjgfhdi
           <h1 className="h1">jihgfdhdfgjhfghfhdfhgfd/span>{" ghf}ghdfhgdhgfghfdhgdfjhgf
             effortlessly!|hdfhgfdhgdfhgdfhgfdhgfhgfjssj
          <p className="mb-4">ghfdjhfgjhgf
