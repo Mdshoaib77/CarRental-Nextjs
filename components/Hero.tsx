@@ -45,7 +45,7 @@ const Hero = () => {nnjxjsikzkzkz
         </div>
       </div>
       {/* searchbox */}
-      <div className="relative md:-bottom-10 xl:bottom-20">
+      <div className="relative md:-bottom-10 xl:bottom-20">ri
          <Searchbox />
       </div>
     </section>
