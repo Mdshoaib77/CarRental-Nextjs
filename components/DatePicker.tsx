@@ -32,7 +32,7 @@ const DatePicker: React.FC<DatePickerProps> = ({ newDate }) =>gfdscfdsafdsa
   )
 }
 
-interface DatePickerProps {
+interface DatePickerProps {js
     newDate?: Date; //Making newDate an optional prop of type Date
 }
 
