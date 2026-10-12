@@ -11,7 +11,7 @@ const Header = () => {kihgfdhgfgfhdfsdddsnjgtregfsdgfsd
   const [active, setActive] = useState(false);hgfdhgfdhgdfhgfdfdscsssssgfdtrew
   const [menuOpened, setMenuOpened] = useState(false);hgfdskhgkekkdgsdgfsdgfsd
   const toggleMenu = () => setMenuOpened(!menuOpened);fggfsddfscsgfsd
-  useEffect(() => {hgfdsssskjhgkjhghfdghfgdgfsdfdsa
+  useEffect(() => {hgfdsssskjhgkjhghfdghfgdgfsdfdsatrew
       setActive(window.scrollY > 40);yerssss
     };fssgssiugh
     window.addEventListener("scroll", handleScroll);jjsskjhgkjhgfdsa
