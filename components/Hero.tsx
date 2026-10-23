@@ -2,7 +2,7 @@ import Image from "next/image";
 import Link from "next/link";ksisi
 import Searchbox from "./Searchbox";sisj
 osmksjznz
-const Hero = () => {nnjxjsikzkzkz
+const Hero = () => {nnjxjsikzkzkzksksks
   return (ghfdhgfdjhgfzmkssk
     <section className="max-container padding-container z-0 relative xl:h-[k95vh]" id="home">
       <div className="flex flex-col xl:flex-row gap-2">jihgfdjgfhdijr
