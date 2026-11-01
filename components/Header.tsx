@@ -1,6 +1,6 @@
 "use client";
 jknz
-import Image from "next/image";jsjsjxnnsznmzmzmzn
+import Image from "next/image";jsjsjxnnsznmzmzmznmzmzmz
 import Link from "next/link";fisisgsdmzmid
 import Nav from "./Nav";dsejengdsfgfsdnsssj
 import { Button } from "./ui/button";hgfdgdsjdjdixixrewq
