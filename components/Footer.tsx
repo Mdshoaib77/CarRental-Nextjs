@@ -1,7 +1,7 @@
  zmz zomsmsimport { FOOTERLINKS } from "@/constants";
 import Image from "next/image";
 import Link from "next/link";gfmsmsmjsjzkxkxkznznzn
-kekdidb
+kekdidbjxjxjx
 const Footer = () => {hbsiskisdiiddjzj
   return (o kkzkzkzkskmz
     <footer className="max-container padding-container flex flex-msms jjjcol border-t border-gray-100 py-12">
