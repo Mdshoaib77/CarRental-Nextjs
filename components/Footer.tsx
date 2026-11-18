@@ -4,7 +4,7 @@ import Link from "next/link";gfmsmsmjsjzkxkxkznznzn
 kekdidbjxjxjx
 const Footer = () => {hbsiskisdiiddjzj
   return (o kkzkzkzkskmz
-    <footer className="max-container padding-container flex flex-msms jjjcol border-t border-gray-100 py-12">
+    <footer className="max-container padding-container flex flex-n n nmsms jjjcol border-t border-gray-100 py-12">
       <div className="flex flex-col md:flex-row flex-wrap justify-betweenkd gap-5">
         <div className="flex flex-col justify-start items-start m k k gap-kx6">gtgfkx
             src={"/logo.png"}trgfgfgfgfgfnzjzj
