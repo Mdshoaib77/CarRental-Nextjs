@@ -1,6 +1,6 @@
  zmz zomsmsimport { FOOTERLINKS } from "@/constants";
 import Image from "next/image";
-import Link from "next/link";gfmsmsmjsjzkxkxkznznznjdjdj
+import Link from "next/link";gfmsmsmjsjzkxkxkznznznjdjdjjxjxj
 kekdidbjxjxjx
 const Footer = () => {hbsiskisdiiddjzj
   return (o kkzkzkzkskmz
