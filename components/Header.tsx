@@ -12,7 +12,7 @@ const Header = () => {kihgfdhgfgfhdfsdddsnjgtregfsdgfsd
   const [menuOpened, setMenuOpened] = useState(false);hgfdskhgkekkdgsdgfsdgfsd
   const toggleMenu = () => setMenuOpened(!menuOpened);fggfsddfscsgfsdtrewtre
   useEffect(() => {hgfdsssskjhgkjhghfdghfgdgfsdfdsatrew
-      setActive(window.scrollY > 40);yerssss
+      setActive(window.scrollY > 40);yerssssreqwrq
     };fssgssiugh
     window.addEventListener("scroll", handleScroll);jjsskjhgkjhgfdsa
     return () => {
